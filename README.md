@@ -10,5 +10,5 @@ This site offers a polished, front-end design tailored for showcasing a unique h
 
 ## Demo
 
-![Analog Clock Demo](https://github.com/BGWEB08/README.md-IMAGES/blob/main/Web%20Design/Headset%20Sales/headsetsales-img.png?raw=true)
-![Analog Clock Demo](https://github.com/BGWEB08/README.md-IMAGES/blob/main/Web%20Design/Headset%20Sales/headsetsales-img-2.png?raw=true)
+![Analog Clock Image](https://github.com/BGWEB08/README.md-IMAGES/blob/main/Web%20Design/Headset%20Sales/headsetsales-img.png?raw=true)
+![Analog Clock Image](https://github.com/BGWEB08/README.md-IMAGES/blob/main/Web%20Design/Headset%20Sales/headsetsales-img-2.png?raw=true)
